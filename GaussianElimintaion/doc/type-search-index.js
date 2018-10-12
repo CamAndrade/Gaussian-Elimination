@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"calculate","l":"Gauss"}]
